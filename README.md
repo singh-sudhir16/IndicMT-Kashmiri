@@ -4,6 +4,7 @@ Machine translation (MT) plays a crucial role in breaking language barriers and 
 
 By leveraging deep learning and natural language processing (NLP), this project aims to bridge the gap between English and Kashmiri speakers, ensuring better accessibility to digital content in Kashmiri.
 
+⚠ Note: Running this model requires high computational power. It is recommended to use Google Colab for execution. Run on **[Google Colab](https://colab.research.google.com/)**
 ## Project Objectives
 The primary objectives of this project are:
 
@@ -45,3 +46,6 @@ Datasets (Hugging Face) – Provides large-scale dataset handling for model trai
 
 ### 4. Custom Processing Modules
 IndicTransToolkit – Handles preprocessing (tokenization, entity recognition) and postprocessing (detokenization, formatting) to improve translation quality.
+
+## Acknowledgments
+We would like to thank AI4Bharat for their IndicTrans2 model and the open-source NLP community for their contributions in advancing machine translation research.
