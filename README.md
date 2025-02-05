@@ -9,16 +9,16 @@ By leveraging deep learning and natural language processing (NLP), this project 
 The primary objectives of this project are:
 
 1. Develop an AI-powered translation system for converting English text into Kashmiri while preserving meaning and context.
+   
+3. Enhance the translation quality by implementing preprocessing and postprocessing techniques for better linguistic accuracy.
 
-2. Enhance the translation quality by implementing preprocessing and postprocessing techniques for better linguistic accuracy.
+4. Optimize the model for efficiency using quantization techniques (4-bit and 8-bit) to support lower-memory devices.
 
-3. Optimize the model for efficiency using quantization techniques (4-bit and 8-bit) to support lower-memory devices.
+5. Ensure script accuracy by handling Kashmiri script-specific nuances effectively.
 
-4. Ensure script accuracy by handling Kashmiri script-specific nuances effectively.
+6. Improve entity recognition and formatting to maintain proper names, dates, and technical terms in translations.
 
-5. Improve entity recognition and formatting to maintain proper names, dates, and technical terms in translations.
-
-6. Deploy and integrate the model into applications such as chatbots, websites, or research tools.
+7. Deploy and integrate the model into applications such as chatbots, websites, or research tools.
 
 ## Toolkit Overview
 The project utilizes a combination of machine learning frameworks, NLP libraries, and pre-trained models. Below is an overview of the tools used:
